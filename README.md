@@ -11,4 +11,4 @@
 > ##### BootStrap
 
 ## 서비스 구현
-https://github.com/donggeonL/PCR_Hospital_SpringBoot/issues/1#issue-1175078525
+https://user-images.githubusercontent.com/87507644/159230406-34f6d3df-3aff-4fa8-b624-58d2fb467917.mp4
