@@ -1,6 +1,7 @@
 ## Spring Boot Project
 
-> ### 공공데이터 API를 이용한 PCR 검사를 할 수있는 병원 찾기!!
+> ### PCR 병원 조회 서비스
+> ##### 공공데이터 API를 사용해 PCR검사 , 신속항원검사를 할 수 있는 병원을 찾는 사이트 개발
 
 ## 기술 스택
 > ##### SpringBoot (IntelliJ) [Server]
