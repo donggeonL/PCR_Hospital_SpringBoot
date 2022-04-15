@@ -6,6 +6,7 @@
 ## 기술 스택
 > ##### SpringBoot (IntelliJ) [Server]
 > ##### Mustache (Client)
+> ##### H2 메모리 DB
 > ##### JavaScript
 > ##### 공공데이터 API (건강보험심사평가원_호흡기 진료 지정 의료기관 정보서비스)
 > ##### BootStrap
